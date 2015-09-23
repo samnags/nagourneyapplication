@@ -1,2 +1,0 @@
-# nagourneyapplication
-My first app
