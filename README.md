@@ -5,8 +5,8 @@ This is a CLI choose your adventure game that will help guide the Flatiron team 
 
 <h1> Initialization<h/1>
 <br>
-<h4>Run app.rb to begin the program</h4>
+<h6>Run app.rb to begin the program</h6>
 
 <h1>Commands</h1>
 
-<h4>"yes" "no" and "maybe" will be your primary commands</h4>
+<h6>"yes" "no" and "maybe" will be your primary commands</h6>
